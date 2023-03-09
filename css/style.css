@@ -1,0 +1,573 @@
+
+body {
+    font-family: Arial, , sans-serif;
+}
+
+.header {
+    max-width: 100px;
+    
+}
+
+.btn-dark {
+    color: #fff;
+    background-color: #000000;
+    border-color: #343a40;
+}
+
+.img_logo {
+    max-width: 190px;
+}
+
+.inst_logo_header {
+    width: 30px;
+    height: 30px;
+    fill: none
+}
+
+.at_center {
+    align-items: center
+}
+
+
+
+.pad_number {
+    margin-bottom: 0;
+    color: black;
+}
+
+.pad_mail {
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.mail_content {
+    color: black;
+}
+
+.mail_content:hover {
+    text-decoration: none;
+    color: brown;
+}
+
+.pd-r_deck {
+    padding-right: 0;
+} 
+
+.inst_logo-pad {
+    padding-top: 2px;
+}
+
+.nav-link .focus:hover {
+    color:darkgoldenrod;
+} 
+
+.hover {
+    color: rgb(51, 52, 51);
+    display: block;
+    padding: 0.5rem 1rem;
+    padding-bottom: 1px;
+    padding-top: 5px;
+}
+
+.hover:hover {
+    color: chocolate;
+    text-decoration: none;
+}
+
+.mar_header-container {
+    margin-bottom: 20px;
+}
+
+/*--------   Галерея    -----*/
+
+/*-----Правки------*/
+.mar-bot-0 {
+    margin-bottom: 20px;
+    max-width: 600px;
+    margin-right: 0;
+}
+
+.mar-top-container_text {
+    margin-top: 30px;
+    max-width: 600px;
+}
+
+.max_w_text {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.p_top {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+/*----swiper----*/
+.swiper-slide img {
+    max-width: 100%;
+    /* max-height: 100%; */
+    object-fit: cover;
+}
+
+
+
+.swiper {
+    border-radius: 1%;
+    box-shadow: rgb(0 0 0 / 56%) 0px 0px 6px 3px;
+    
+}
+
+.max-w-container-swiper {
+    max-width: 500px;
+}
+
+/*----swiper----*/
+
+.catalog {
+    font-weight: bold;
+}
+
+
+/*-----------------*/
+
+img {
+    max-width: 50%;
+}
+
+.bor_radius {
+    border-radius: 10px;
+}
+
+
+
+.swiper
+
+.container_text {
+    padding-top: 50px;
+}
+
+.mar_top {
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.bg {
+    background-color: rgba(71, 71, 71, 0.041);
+}
+
+h2 {
+    text-shadow: 4px 4px 5px rgb(150, 170, 170);
+}
+
+.w_h {
+    max-width: 100%;
+    max-height: 100%;
+    font-weight: bold;
+}
+
+.word-spacing {
+    word-spacing: 5px;
+}
+
+h2 {
+    display: inline;
+  border-bottom: 3px  #e3e1db;
+}
+
+.image_dogtank {
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 15px;
+}
+
+
+.image_price {
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 15px;
+}
+
+.image_price:hover {
+    transform: scale3d(1.1, 1.1, 1.1);
+    transition-delay: 0.1s;
+    transition-duration: 1s;
+}
+
+.m_top {
+    margin-top: 120px;
+    padding-top: 15px;
+}
+
+.pad_dogtank {
+    padding-top: 5px;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.pading_t {
+    padding-top: 30px;
+}
+
+.img_mitra_panagia {
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 15px;
+}
+
+.img_mitra_panagia:hover {
+    transform: scale3d(1.1, 1.1, 1.1);
+    transition-delay: 0.1s;
+    transition-duration: 1s;
+}
+
+.mitra {
+    max-width: 390px;
+    max-height: 400px;
+    border-radius: 10px;
+    box-shadow:
+       inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 2px rgb(255,255,255),
+             1em 1em 1em rgb(0 0 0 / 30%);
+}
+
+.fonts_size {
+    font-size: 42px;
+    padding-top: 150px;
+    
+    color:rgb(54, 54, 54);
+    text-shadow: rgb(120, 118, 107) 1px 0 10px;
+}
+
+.text_content {
+    padding-left: 30px;
+}
+
+.stor_post {
+    max-width: 80px;
+    max-height: 80px;
+}
+
+.pad_top-delivery {
+    padding-top: 50px;
+}
+
+.bg_black {
+    background-color: black;
+}
+
+.inst_logo_futer {
+    max-width: 50px;
+    max-height: 55px;
+    margin-top: 20px;
+}
+
+.white {
+    color: white;
+}
+
+.mar_content-phone {
+    margin-bottom: 0;
+}
+
+.mar_top-logo {
+    margin-top: 16px;
+}
+
+.bg_contetn-text {
+background-color: rgba(0, 0, 0, 0.964);
+}
+
+.text-content_footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    text-decoration: solid;
+    font-size: 15px;
+}
+
+/*---animaton----*/
+.pos_rel {
+    position: relative;
+    cursor: pointer;
+}
+
+.pos_abs {
+    position:absolute;
+}
+
+
+.front_img {
+    max-width: 400px;
+    max-height: 400px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    
+
+    transition: transform .6s linear;
+
+    backface-visibility: hidden;
+
+    transform: rotateY(0deg);
+   
+}
+
+.back_img {
+    max-width: 400px;
+    max-height: 400px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+
+    transition: transform .6s linear;
+
+    backface-visibility: hidden;
+
+    transform: rotateY(180deg);
+}
+
+
+.animation-img:hover > .front_img {
+ transform: rotateY(-180deg);
+}
+
+.animation-img:hover > .back_img {
+    transform: rotateY(0deg);
+   }
+
+
+/*--------------*/
+
+
+
+
+@media(max-width:1800px ) {
+    .displey_b {
+        display: none;
+    }
+
+    .btn_by-jeton {
+        margin-top: 50px;
+    }
+
+    .f_l {
+        flex: 0 0 50.333333%;
+        max-width: 50.333333%;
+    }
+
+    .displey-anim {
+        flex: 0 0 33.333333%;
+        max-width: 25.333333%;
+    }
+
+    .m_top {
+        margin-top: 90px;
+        padding-top: 15px;
+}
+
+@media (max-width: 992px) {
+    .container_about {
+        flex-direction: column;
+        align-content: space-around;
+        align-items: center;
+    }
+
+    .img_mitra_panagia {
+        padding-top: 30px;
+    }
+
+    .sp_around {
+        justify-content: space-around;
+    }
+
+    .col-6 {
+    max-width: 100%;
+    }
+
+    .mitra {
+        max-width: 300px;
+        max-height: 300px;
+    }
+
+    .text_mobile {
+        max-width: 100%;
+        
+    }
+
+    .fonts_size {
+        padding-top: 30px;
+         text-align: center;
+    }
+    
+    .text-after-about_us {
+        text-align: center;
+    }
+
+    .inst_logo_header {
+        max-width: 50px;
+        max-height: 50px;
+    }
+
+
+
+}
+
+
+@media (max-width: 768px) {
+    .at_center {
+        flex-direction: column;
+    }
+
+    .pd_l_r {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .pd_r {
+        padding-right: 0px;
+        margin-bottom: 5px;
+    }
+
+    .sp_around {
+        flex-direction: column;
+    }
+}
+
+@media(max-width: 576px) {
+    img {
+        max-width: 100%;
+    }
+}
+
+
+
+@media (max-width: 504px) {
+    img {
+        max-width: 100%;
+    }
+
+    .nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .pd_l_r {
+        display: none;
+    }
+
+    .mar_mob {
+        padding-left: 0;
+        padding-right: 0;
+        
+    }
+
+    .displey_b {
+        display: block;
+    }
+
+}
+
+
+
+
+
+@media (max-width: 460px) {
+    .text_content {
+        padding-left: 20px;
+    }
+
+    .text_mobile {
+        padding-left: 0;
+    }
+
+    h1 {
+        font-size: 27px;
+    }
+
+    img {
+        max-width: 140%;
+    }
+
+    .sacred-text {
+        margin-bottom: 0;
+    }
+
+    .m_top {
+        margin-top: 110px;
+    }
+
+    .displey-anim {
+        display: none;
+    }
+
+    .anim-row {
+        justify-content: space-around;
+    }
+
+    .pos_rel {
+        margin-right: 15px;
+ 
+    }
+
+    .front_img,
+    .back_img {
+        left: -15px;
+    }
+
+    .f_l {
+        flex: 0 0 50.333333%;
+        max-width: 50.333333%;
+    }
+
+    .m_top {
+        padding-left: 40px;
+    }
+
+    .catalog {
+        margin-bottom: 15px;
+    }
+
+    .mar_dog {
+        margin-bottom: 4px;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .pad_dogtank {
+        padding-top: 5px;
+    }
+
+    .inst_logo_header {
+        width: 30px;
+        height: 31px;
+        fill: none;
+    }
+
+    .row_souvenirs {
+        margin-right: 15px;
+    }
+
+    .pad {
+        padding-left: 5px;
+    }
+
+    .w_h {
+        font-weight:400;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .btn_by-jeton {
+        margin-top: 50px;
+    }
+}
+
+
